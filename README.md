@@ -2,6 +2,8 @@
 
 Coin name / symbol : HERB / HERB
 
+Logo : https://imgur.com/9BYiLdL
+
 Announcement : https://bitcointalk.org/index.php?topic=5031340.msg45845504#msg45845504
 
 Github : https://github.com/danrachita/herb
