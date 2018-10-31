@@ -14,4 +14,6 @@ Exchange : https://graviex.net/markets/herbbtc?pinned=true
 
 Discord : https://discord.gg/aGY5eFp
 
+Coinlib : https://coinlib.io/coin/HERB/Herbcoin
+
 Masternodes Online : https://masternodes.online/currencies/HERB/
