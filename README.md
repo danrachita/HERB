@@ -1,6 +1,6 @@
 # herb
 
-Coin name / symbol : Herbcoin / HERB
+Coin name / ticker : Herbcoin / HERB
 
 Logo : https://imgur.com/9BYiLdL
 
