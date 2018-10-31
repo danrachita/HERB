@@ -12,7 +12,7 @@ Explorer : http://78.97.54.58:3002/
 
 Exchange : https://graviex.net/markets/herbbtc?pinned=true
 
-Discord : https://discord.gg/aGY5eFp
+Discord : https://discord.gg/DV923Zj
 
 Coinlib : https://coinlib.io/coin/HERB/Herbcoin
 
