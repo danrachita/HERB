@@ -135,12 +135,12 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x70cc60fa953153eef1264ad76f1349de15f5ff8b26887974b9b1da74bb0cd02f"));
 
 
-        vSeeds.push_back(CDNSSeedData("95.179.137.180", "95.179.137.180"));
-        vSeeds.push_back(CDNSSeedData("45.63.114.210", "45.63.114.210"));
-        vSeeds.push_back(CDNSSeedData("80.240.28.239", "80.240.28.239"));
-        vSeeds.push_back(CDNSSeedData("108.61.86.86", "108.61.86.86"));
-        vSeeds.push_back(CDNSSeedData("202.182.121.210", "202.182.121.210"));
-        vSeeds.push_back(CDNSSeedData("45.77.43.2", "45.77.43.2"));
+        vSeeds.push_back(CDNSSeedData("78.97.54.58", "78.97.54.58"));
+        //vSeeds.push_back(CDNSSeedData("45.63.114.210", "45.63.114.210"));
+        //vSeeds.push_back(CDNSSeedData("80.240.28.239", "80.240.28.239"));
+        //vSeeds.push_back(CDNSSeedData("108.61.86.86", "108.61.86.86"));
+        //vSeeds.push_back(CDNSSeedData("202.182.121.210", "202.182.121.210"));
+        //vSeeds.push_back(CDNSSeedData("45.77.43.2", "45.77.43.2"));
 
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 40);
@@ -215,12 +215,12 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
 
-        vSeeds.push_back(CDNSSeedData("95.179.137.180", "95.179.137.180"));
-        vSeeds.push_back(CDNSSeedData("45.63.114.210", "45.63.114.210"));
-        vSeeds.push_back(CDNSSeedData("80.240.28.239", "80.240.28.239"));
-        vSeeds.push_back(CDNSSeedData("108.61.86.86", "108.61.86.86"));
-        vSeeds.push_back(CDNSSeedData("202.182.121.210", "202.182.121.210"));
-        vSeeds.push_back(CDNSSeedData("45.77.43.2", "45.77.43.2"));
+        vSeeds.push_back(CDNSSeedData("78.97.54.58", "78.97.54.58"));
+        //vSeeds.push_back(CDNSSeedData("45.63.114.210", "45.63.114.210"));
+        //vSeeds.push_back(CDNSSeedData("80.240.28.239", "80.240.28.239"));
+        //vSeeds.push_back(CDNSSeedData("108.61.86.86", "108.61.86.86"));
+        //vSeeds.push_back(CDNSSeedData("202.182.121.210", "202.182.121.210"));
+        //vSeeds.push_back(CDNSSeedData("45.77.43.2", "45.77.43.2"));
 
 
 
