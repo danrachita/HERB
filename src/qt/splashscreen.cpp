@@ -35,10 +35,10 @@ SplashScreen::SplashScreen(Qt::WindowFlags f, const NetworkStyle* networkStyle) 
 
     // define text to place
     QString titleText = tr("HERB Core");
-    QString versionText = tr("v1.0 PINK GECKO");
+    QString versionText = QString(tr("Version %1")).arg(QString::fromStdString(FormatFullVersion()));
     QString copyrightTextBtc = QChar(0xA9) + QString(" 2009-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Bitcoin Core developers"));
     QString copyrightTextDash = QChar(0xA9) + QString(" 2014-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Dash Core and PIVX developers"));
-    QString copyrightTextHERB = QChar(0xA9) + QString(" 2018-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The HERB developers"));
+    QString copyrightTextHERB = QChar(0xA9) + QString(" 2018-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("p2p-coins.pro developers"));
     QString titleAddText = networkStyle->getTitleAddText();
     QString font = QApplication::font().toString();
 
