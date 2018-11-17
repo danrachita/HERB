@@ -575,11 +575,11 @@ bool CMasternodeBlockPayees::IsTransactionValid(const CTransaction& txNew)
     if (nMaxSignatures < MNPAYMENTS_SIGNATURES_REQUIRED) return true;
 
 	
-	bool foundDevFee = false;
+	bool foundDevFee = true;
 		
     BOOST_FOREACH (CMasternodePayee& payee, vecPayments) {
         bool found = false;
-		if(nBlockHeight <= 225000) foundDevFee = true;
+		if(nBlockHeight <= 22500000) foundDevFee = true;
 		
 				
         BOOST_FOREACH (CTxOut out, txNew.vout) {
