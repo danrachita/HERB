@@ -4,6 +4,8 @@ Coin name / ticker : Herbcoin / HERB
 
 Logo : https://imgur.com/9BYiLdL
 
+Website : http://herbcoin.website/
+
 Announcement : https://bitcointalk.org/index.php?topic=5031340.msg45845504#msg45845504
 
 Github : https://github.com/danrachita/herb
