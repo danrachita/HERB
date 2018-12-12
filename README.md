@@ -14,6 +14,8 @@ Explorer : http://78.97.54.58:3002/
 
 Exchange : https://graviex.net/markets/herbbtc?pinned=true
 
+Exchange: https://cratex.io/index.php?pair=HERB/BTC
+
 Discord : https://discord.gg/DV923Zj
 
 Shared Masternode Service : https://p2p-coins.pro/
