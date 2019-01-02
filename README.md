@@ -22,4 +22,6 @@ Shared Masternode Service : https://p2p-coins.pro/
 
 Coinlib : https://coinlib.io/coin/HERB/Herbcoin
 
+Coinadviser: https://coinadviser.info/coin/HERB-HerbCoin
+
 Masternodes Online : https://masternodes.online/currencies/HERB/
