@@ -24,4 +24,6 @@ Coinlib : https://coinlib.io/coin/HERB/Herbcoin
 
 Coinadviser: https://coinadviser.info/coin/HERB-HerbCoin
 
+Cryptocompare: https://www.cryptocompare.com/coins/herb/overview
+
 Masternodes Online : https://masternodes.online/currencies/HERB/
