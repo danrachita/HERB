@@ -12,6 +12,10 @@ Github : https://github.com/danrachita/herb
 
 Explorer : http://78.97.54.58:3002/
 
+Explorer2: http://45.32.210.221:3420/
+
+Explorer3: http://46.101.101.246:3002/
+
 Exchange : https://graviex.net/markets/herbbtc?pinned=true
 
 Exchange: https://cratex.io/index.php?pair=HERB/BTC
