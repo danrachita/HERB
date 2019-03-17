@@ -10,9 +10,7 @@ Announcement : https://bitcointalk.org/index.php?topic=5031340.msg45845504#msg45
 
 Github : https://github.com/danrachita/herb
 
-Explorer : http://78.97.54.58:3002/
-
-Explorer2: http://45.32.210.221:3420/
+Explorer : http://162.244.80.98:3004/
 
 Exchange : https://graviex.net/markets/herbbtc?pinned=true
 
